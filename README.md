@@ -1,3 +1,3 @@
 # My personal website
 
-([fckdroid.github.io](https://fckdroid.github.io/))
+([suhocki.github.io](https://fckdroid.github.io/))
